@@ -51,7 +51,7 @@ const characters = [
     abilities: ["Haunt", "Prowler", "Seize", "NightFall"],
   },
   {
-    id: 9,
+    id:10,
     name: "Skye",
     role: "Initiator",
     abilities: ["Guiding Light", "Regrowth", "Trail Blazer", "Seekers"],
