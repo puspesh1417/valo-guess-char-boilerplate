@@ -133,7 +133,7 @@ const App = () => {
   };
 
   const scoreHandler = (e) => {
-   
+   e.prevent default()
   };
 
   useEffect(() => {
